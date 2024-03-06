@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: aqua;
+}
+.uno{
+  width: 450px;
+  background-color: blanchedalmond;
+  text-align: center;
+  margin: auto;
+}
+.dos{
+  background-color: bisque;
+  width: 600px;
+  margin: auto;
+}
+.dos h2{
+  text-align: center;
+  color: orange;
+}
+.imagen{
+  /* margin: auto; */
+  text-align: center;
+}
+.ima{
+  width: 300px;
+  border-radius: 10px;
+}
